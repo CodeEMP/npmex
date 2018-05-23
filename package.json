@@ -1,0 +1,28 @@
+{
+  "name": "cpauley-mods",
+  "version": "1.0.0",
+  "description": "this",
+  "main": "index.js",
+  "dependencies": {
+    "marked": "^0.4.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "requests": "^0.2.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeEMP/npmex.git"
+  },
+  "author": "cody pauley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeEMP/npmex/issues"
+  },
+  "homepage": "https://github.com/CodeEMP/npmex#readme"
+}
