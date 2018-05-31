@@ -4,6 +4,7 @@
   "description": "this",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "marked": "^0.4.0",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
